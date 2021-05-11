@@ -14,5 +14,5 @@ js uzantılı dosyada yorum satırlarında örnek olarak playerda
    ctx.arc(this.x,this.y,this.radius,0,Math.PI*2);
    ctx.fill();
    ctx.closePath();*/ 
-        şeklinde daireler oluşturup o taslağa fonksiyonellik(coine değince skor artması,coinin kaybolması vb.) ekledikten sonra png dosyalarını yerleştirdim.
+        şeklinde daireler oluşturup o taslağa fonksiyonellik(coine değince skor artması,coinin kaybolması vb.) ekledikten sonra .png dosyalarını yerleştirdim.
 
