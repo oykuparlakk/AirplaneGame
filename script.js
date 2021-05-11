@@ -34,7 +34,7 @@ canvas.addEventListener('mouseup',function(){
     mouse.click=false;
 });
 
-//player(plain)
+//player(plane)
 
 const playerLeft = new Image();
 playerLeft.src = 'plane_3_red.png';
