@@ -15,4 +15,7 @@ js uzantılı dosyada yorum satırlarında örnek olarak playerda
    ctx.fill();
    ctx.closePath();*/ 
         şeklinde daireler oluşturup o taslağa fonksiyonellik(coine değince skor artması,coinin kaybolması vb.) ekledikten sonra .png dosyalarını yerleştirdim.
+        
+        
+![image](https://user-images.githubusercontent.com/56317041/117894630-74094c80-b2c5-11eb-926d-ca185411837b.png)
 
